@@ -1,0 +1,20 @@
+bin\Debug\Names Numbers.exe
+bin\Debug\Names Numbers.pdb
+bin\Debug\Names Numbers.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Calculator.Form1.resources
+obj\Debug\Calculator.Resources.resources
+obj\Debug\Name of Numbers.vbproj.GenerateResource.Cache
+obj\Debug\Names Numbers.exe
+obj\Debug\Names Numbers.xml
+obj\Debug\Names Numbers.pdb
+bin\Release\Names Numbers.exe
+bin\Release\Names Numbers.pdb
+bin\Release\Names Numbers.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Calculator.Form1.resources
+obj\Release\Calculator.Resources.resources
+obj\Release\Name of Numbers.vbproj.GenerateResource.Cache
+obj\Release\Names Numbers.exe
+obj\Release\Names Numbers.xml
+obj\Release\Names Numbers.pdb

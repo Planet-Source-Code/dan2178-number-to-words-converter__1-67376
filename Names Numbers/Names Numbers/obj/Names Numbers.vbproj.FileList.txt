@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Calculator.Form1.resources
+obj\Debug\Calculator.Resources.resources
+bin\Debug\Names Numbers.exe
+bin\Debug\Names Numbers.pdb
+bin\Debug\Names Numbers.xml
+obj\Debug\Names Numbers.vbproj.GenerateResource.Cache
+obj\Debug\Names Numbers.exe
+obj\Debug\Names Numbers.xml
+obj\Debug\Names Numbers.pdb
